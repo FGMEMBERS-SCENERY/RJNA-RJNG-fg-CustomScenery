@@ -1,3 +1,11 @@
+RJNA - Nagoya FG Custom Scenery
+---------------------------------
+
+By Uchi-Aircraft, :copyright: 2016 <br>
+Formatted with terraGIT.
+
+***
+
 **********************************
     インストールの手順
 **********************************
